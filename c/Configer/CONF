@@ -1,0 +1,32 @@
+echoecho "Problem: " prob_a
+rm%20_tester_executable%202>/dev/null
+g++%20src/$(CONTESTANT)/prob_a.cpp%20-o_tester_executable_
+
+#N0 7
+
+echocp%20data/prob_a/prob_a1.in%20prob_a.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 1 1000 262144 diff%20prob_a.out%20data/prob_a/prob_a1.ans%20-w%20>/dev/null%202>/dev/null
+rm%20prob_a.in%20prob_a.out%20>/dev/null%202>/dev/null
+
+cp%20data/prob_a/prob_a2.in%20prob_a.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 2 1000 262144 diff%20prob_a.out%20data/prob_a/prob_a2.ans%20-w%20>/dev/null%202>/dev/null
+rm%20prob_a.in%20prob_a.out%20>/dev/null%202>/dev/null
+
+rm%20_tester_executable_%202>/dev/null
+
+echoecho "Problem: " 1
+rm%20_tester_executable%202>/dev/null
+g++%20src/$(CONTESTANT)/1.cpp%20-o_tester_executable_
+
+#N0 7
+
+echocp%20data/1/11.in%201.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 1 1000 262144 diff%201.out%20data/1/11prob_b%20-w%20>/dev/null%202>/dev/null
+rm%201.in%201.out%20>/dev/null%202>/dev/null
+
+cp%20data/1/12.in%201.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 2 1000 262144 diff%201.out%20data/1/12prob_b%20-w%20>/dev/null%202>/dev/null
+rm%201.in%201.out%20>/dev/null%202>/dev/null
+
+rm%20_tester_executable_%202>/dev/null
+

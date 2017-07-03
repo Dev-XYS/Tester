@@ -1,0 +1,6 @@
+rm%20_tester_executable_%202>/dev/null
+rm%20t.in%20t.out%202>/dev/null
+gcc%20src/$(CONTESTANT)/a.c%20-o%20_tester_executable_
+#N0 1
+cp%20data/t/t.in%20.
+#TC 0 ./_tester_executable_%202>/dev/null 1 1000 100000 diff%20t.out%20data/t/t.ans%202>/dev/null

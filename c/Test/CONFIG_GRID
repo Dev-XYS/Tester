@@ -1,0 +1,80 @@
+cp%20data/grid/grid1.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 1 2000 262144 diff%20grid.out%20data/grid/grid1.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid2.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 2 2000 262144 diff%20grid.out%20data/grid/grid2.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid3.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 3 2000 262144 diff%20grid.out%20data/grid/grid3.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid4.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 4 2000 262144 diff%20grid.out%20data/grid/grid4.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid5.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 5 2000 262144 diff%20grid.out%20data/grid/grid5.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid6.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 6 2000 262144 diff%20grid.out%20data/grid/grid6.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid7.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 7 2000 262144 diff%20grid.out%20data/grid/grid7.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid8.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 8 2000 262144 diff%20grid.out%20data/grid/grid8.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid9.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 9 2000 262144 diff%20grid.out%20data/grid/grid9.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid10.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 10 2000 262144 diff%20grid.out%20data/grid/grid10.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid11.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 11 2000 262144 diff%20grid.out%20data/grid/grid11.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid12.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 12 2000 262144 diff%20grid.out%20data/grid/grid12.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid13.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 13 2000 262144 diff%20grid.out%20data/grid/grid13.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid14.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 14 2000 262144 diff%20grid.out%20data/grid/grid14.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid15.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 15 2000 262144 diff%20grid.out%20data/grid/grid15.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid16.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 16 2000 262144 diff%20grid.out%20data/grid/grid16.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid17.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 17 2000 262144 diff%20grid.out%20data/grid/grid17.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid18.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 18 2000 262144 diff%20grid.out%20data/grid/grid18.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid19.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 19 2000 262144 diff%20grid.out%20data/grid/grid19.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+
+cp%20data/grid/grid20.in%20grid.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 20 2000 262144 diff%20grid.out%20data/grid/grid20.ans%20-w%20>/dev/null%202>/dev/null
+rm%20grid.in%20grid.out%20>/dev/null%202>/dev/null
+

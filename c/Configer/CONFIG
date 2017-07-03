@@ -1,0 +1,40 @@
+cp%20data/card/card1.in%20card.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 1 1000 262144 diff%20card.out%20src/card/card1.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20card.out%20>/dev/null%202>/dev/null
+
+cp%20data/card/card2.in%20card.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 2 1000 262144 diff%20card.out%20src/card/card2.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20card.out%20>/dev/null%202>/dev/null
+
+cp%20data/card/card3.in%20card.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 3 1000 262144 diff%20card.out%20src/card/card3.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20card.out%20>/dev/null%202>/dev/null
+
+cp%20data/card/card4.in%20card.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 4 1000 262144 diff%20card.out%20src/card/card4.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20card.out%20>/dev/null%202>/dev/null
+
+cp%20data/card/card5.in%20card.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 5 1000 262144 diff%20card.out%20src/card/card5.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20card.out%20>/dev/null%202>/dev/null
+
+cp%20data/card/card6.in%20card.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 6 1000 262144 diff%20card.out%20src/card/card6.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20card.out%20>/dev/null%202>/dev/null
+
+cp%20data/card/card7.in%20card.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 7 1000 262144 diff%20card.out%20src/card/card7.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20card.out%20>/dev/null%202>/dev/null
+
+cp%20data/card/card8.in%20card.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 8 1000 262144 diff%20card.out%20src/card/card8.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20card.out%20>/dev/null%202>/dev/null
+
+cp%20data/card/card9.in%20card.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 9 1000 262144 diff%20card.out%20src/card/card9.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20card.out%20>/dev/null%202>/dev/null
+
+cp%20data/card/card10.in%20card.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 10 1000 262144 diff%20card.out%20src/card/card10.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20card.out%20>/dev/null%202>/dev/null
+

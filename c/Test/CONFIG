@@ -1,0 +1,45 @@
+rm%20_tester_executable_%202>/dev/null
+rm%20graph.in%20graph.out%202>/dev/null
+
+g++%20src/$(CONTESTANT)/graph.cpp%20-o%20_tester_executable_
+#N0 30
+
+cp%20data/graph/graph1.in%20graph.in
+#TC 0 ./_tester_executable_%202>/dev/null 1 1000 262144 diff%20graph.out%20data/graph/graph1.ans%20-w%20>/dev/null%202>&1
+rm%20graph.in%20graph.out%202>/dev/null
+
+cp%20data/graph/graph2.in%20graph.in
+#TC 0 ./_tester_executable_%202>/dev/null 2 1000 262144 diff%20graph.out%20data/graph/graph2.ans%20-w%20>/dev/null%202>&1
+rm%20graph.in%20graph.out%202>/dev/null
+
+cp%20data/graph/graph3.in%20graph.in
+#TC 0 ./_tester_executable_%202>/dev/null 3 1000 262144 diff%20graph.out%20data/graph/graph3.ans%20-w%20>/dev/null%202>&1
+rm%20graph.in%20graph.out%202>/dev/null
+
+cp%20data/graph/graph4.in%20graph.in
+#TC 0 ./_tester_executable_%202>/dev/null 4 1000 262144 diff%20graph.out%20data/graph/graph4.ans%20-w%20>/dev/null%202>&1
+rm%20graph.in%20graph.out%202>/dev/null
+
+cp%20data/graph/graph5.in%20graph.in
+#TC 0 ./_tester_executable_%202>/dev/null 5 1000 262144 diff%20graph.out%20data/graph/graph5.ans%20-w%20>/dev/null%202>&1
+rm%20graph.in%20graph.out%202>/dev/null
+
+cp%20data/graph/graph6.in%20graph.in
+#TC 0 ./_tester_executable_%202>/dev/null 6 1000 262144 diff%20graph.out%20data/graph/graph6.ans%20-w%20>/dev/null%202>&1
+rm%20graph.in%20graph.out%202>/dev/null
+
+cp%20data/graph/graph7.in%20graph.in
+#TC 0 ./_tester_executable_%202>/dev/null 7 3000 262144 diff%20graph.out%20data/graph/graph7.ans%20-w%20>/dev/null%202>&1
+rm%20graph.in%20graph.out%202>/dev/null
+
+cp%20data/graph/graph8.in%20graph.in
+#TC 0 ./_tester_executable_%202>/dev/null 8 3000 262144 diff%20graph.out%20data/graph/graph8.ans%20-w%20>/dev/null%202>&1
+rm%20graph.in%20graph.out%202>/dev/null
+
+cp%20data/graph/graph9.in%20graph.in
+#TC 0 ./_tester_executable_%202>/dev/null 9 3000 3000 diff%20graph.out%20data/graph/graph9.ans%20-w%20>/dev/null%202>&1
+rm%20graph.in%20graph.out%202>/dev/null
+
+cp%20data/graph/graph10.in%20graph.in
+#TC 0 ./_tester_executable_%202>/dev/null 10 3000 3000 diff%20graph.out%20data/graph/graph10.ans%20-w%20>/dev/null%202>&1
+rm%20graph.in%20graph.out%202>/dev/null

@@ -1,0 +1,40 @@
+cp%20data/road/road1.in%20road.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 1 2000 262144 diff%20road.out%20src/road/road1.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20road.out%20>/dev/null%202>/dev/null
+
+cp%20data/road/road2.in%20road.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 2 2000 262144 diff%20road.out%20src/road/road2.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20road.out%20>/dev/null%202>/dev/null
+
+cp%20data/road/road3.in%20road.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 3 2000 262144 diff%20road.out%20src/road/road3.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20road.out%20>/dev/null%202>/dev/null
+
+cp%20data/road/road4.in%20road.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 4 2000 262144 diff%20road.out%20src/road/road4.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20road.out%20>/dev/null%202>/dev/null
+
+cp%20data/road/road5.in%20road.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 5 2000 262144 diff%20road.out%20src/road/road5.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20road.out%20>/dev/null%202>/dev/null
+
+cp%20data/road/road6.in%20road.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 6 2000 262144 diff%20road.out%20src/road/road6.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20road.out%20>/dev/null%202>/dev/null
+
+cp%20data/road/road7.in%20road.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 7 2000 262144 diff%20road.out%20src/road/road7.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20road.out%20>/dev/null%202>/dev/null
+
+cp%20data/road/road8.in%20road.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 8 2000 262144 diff%20road.out%20src/road/road8.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20road.out%20>/dev/null%202>/dev/null
+
+cp%20data/road/road9.in%20road.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 9 2000 262144 diff%20road.out%20src/road/road9.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20road.out%20>/dev/null%202>/dev/null
+
+cp%20data/road/road10.in%20road.in
+#TC 0 ./_tester_executable_%20>/dev/null%202>/dev/null 10 2000 262144 diff%20road.out%20src/road/road10.ans%20-w%20>/dev/null%202>/dev/null
+rm%s.in%20road.out%20>/dev/null%202>/dev/null
+

@@ -1,0 +1,15 @@
+# .gitignore of Project 'Tester'
+
+# Object Files
+*.o
+
+# Unix Backup Files
+*~
+
+# Emacs Backup Files
+\#*\#
+
+# Miscellaneous
+c/Tester/t.in
+c/Tester/t.out
+c/Tester/t.ans
